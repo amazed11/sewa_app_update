@@ -1,0 +1,30 @@
+{
+  "android": {
+    "staging": {
+      "version": "1.0.0",
+      "download_url": "https://play.google.com/store/apps/details?id=com.sewaps.mobile.staging",
+      "release_notes": "• Staging release with latest features\n• Testing new biometric login\n• Improved error handling\n• Debug logging enabled",
+      "force_update": false
+    },
+    "production": {
+      "version": "1.0.0",
+      "download_url": "https://play.google.com/store/apps/details?id=com.sewaps.mobile",
+      "release_notes": "• Bug fixes and performance improvements\n• New login flow with biometric authentication\n• Enhanced offline mode support\n• UI improvements for better user experience",
+      "force_update": false
+    }
+  },
+  "ios": {
+    "staging": {
+      "version": "1.0.0",
+      "download_url": "https://testflight.apple.com/join/xyz123",
+      "release_notes": "• iOS staging release\n• Testing Face ID integration\n• Performance optimizations\n• Bug fixes",
+      "force_update": false
+    },
+    "production": {
+      "version": "1.0.0",
+      "download_url": "https://apps.apple.com/app/sewaps-mobile/id1234567890",
+      "release_notes": "• iOS specific improvements\n• iOS 17 compatibility\n• Face ID integration\n• Performance optimizations for iOS devices",
+      "force_update": true
+    }
+  }
+}
