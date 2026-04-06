@@ -3,24 +3,24 @@
     "staging": {
       "min_version": "0.0.1",
       "latest_version": "1.0.0",
-      "download_url": "https://play.google.com/store/apps/details?id=com.sewaps.mobile.staging"
+      "download_url": "https://play.google.com/store/apps/details?id=dk.sewaaps&hl=en"
     },
     "production": {
       "min_version": "0.0.1",
       "latest_version": "1.0.0",
-      "download_url": "https://play.google.com/store/apps/details?id=com.sewaps.mobile"
+      "download_url": "https://play.google.com/store/apps/details?id=dk.sewaaps&hl=en"
     }
   },
   "ios": {
     "staging": {
       "min_version": "0.0.1",
       "latest_version": "1.0.0",
-      "download_url": "https://testflight.apple.com/join/xyz123"
+      "download_url": "https://apps.apple.com/us/app/sewa-aps/id6757599210"
     },
     "production": {
       "min_version": "0.0.1",
       "latest_version": "1.0.0",
-      "download_url": "https://apps.apple.com/app/sewaps-mobile/id1234567890"
+      "download_url": "https://apps.apple.com/us/app/sewa-aps/id6757599210"
     }
   }
 }
