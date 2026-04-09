@@ -13,13 +13,13 @@
   },
   "ios": {
     "staging": {
-      "min_version": "0.0.1",
-      "latest_version": "1.0.0",
+      "min_version": "1.0.1",
+      "latest_version": "1.0.1",
       "download_url": "https://apps.apple.com/us/app/sewa-aps/id6757599210"
     },
     "production": {
-      "min_version": "0.0.1",
-      "latest_version": "1.0.0",
+      "min_version": "1.0.1",
+      "latest_version": "1.0.1",
       "download_url": "https://apps.apple.com/us/app/sewa-aps/id6757599210"
     }
   }
